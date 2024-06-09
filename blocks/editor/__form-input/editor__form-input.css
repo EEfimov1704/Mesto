@@ -1,0 +1,10 @@
+.editor__form-input {
+    width: 100%;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 16px;
+    padding: 14px 0;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: 0;
+}

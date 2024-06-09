@@ -1,0 +1,17 @@
+@import url(./__close/editor__close.css);
+@import url(./__container/editor__container.css);
+@import url(./__form-input/editor__form-input.css);
+@import url(./__form-submit/editor__form-submit.css);
+@import url(./__title/editor__title.css);
+
+.editor {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 50px 20px;
+    background-color: rgba(0, 0, 0, .5);
+    overflow-y: auto;
+}
